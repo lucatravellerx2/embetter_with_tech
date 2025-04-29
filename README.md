@@ -1,2 +1,2 @@
 # embetter_with_tech
-Random Musing With Technology For Embedering My Goals
+Random Musing With Technology For Embettering My Goals
